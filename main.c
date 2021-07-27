@@ -1,15 +1,15 @@
 /**********************************************************************
 *
-* © James D. Broesch, 2011, 2021
+* Â© James D. Broesch, 2011, 2021
 * 
-* Template for building the code calculate the power of a signal.
+* Template for building the code to calculate the power of a signal.
 * The tone stops when switch 1 is pressed.
 * A timer interrupt provides background functions.
 *
 * FileName:        main.c
 * Dependencies:    Header (.h) files if applicable, see below
 * Processor:       dsPIC33FJ256GP506
-* Compiler:        MPLAB® C30 v3.00 or higher
+* Compiler:        MPLABÂ® C30 v3.00 or higher
 *
 ************************************************************************/
 #include <xc.h>
